@@ -30,7 +30,6 @@
     <meta name="cover" content="cover-1"/>
   </metadata>
   <manifest>
-    <item id="id203" href="../toc.xhtml" media-type="application/xhtml+xml"/>
     <item id="a24.htm" href="Text/a24.htm" media-type="application/xhtml+xml"/>
     <item id="x001.htm" href="Text/001.htm" media-type="application/xhtml+xml"/>
     <item id="x002.htm" href="Text/002.htm" media-type="application/xhtml+xml"/>
@@ -909,7 +908,4 @@
     <itemref idref="x331.htm"/>
     <itemref idref="x332.htm"/>
   </spine>
-  <guide>
-    <reference type="toc" title="Table of Contents" href="../toc.xhtml#calibre_generated_inline_toc"/>
-  </guide>
 </package>
