@@ -8,12 +8,12 @@
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle>
-    <text>明史-漢川草廬</text>
+    <text>明史</text>
   </docTitle>
   <navMap>
     <navPoint id="num_1" playOrder="1">
       <navLabel>
-        <text>明史</text>
+        <text>前言</text>
       </navLabel>
       <content src="Text/a24.htm"/>
     </navPoint>
