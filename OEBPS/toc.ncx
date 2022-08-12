@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-4418-8022-380af14d8d55"/>
+    <meta name="dtb:uid" content="urn:uuid:91250073-638f-4449-a132-427f6467f859"/>
     <meta name="dtb:depth" content="2"/>
     <meta name="dtb:generator" content="calibre (5.43.0)"/>
     <meta name="dtb:totalPageCount" content="0"/>
@@ -11,12 +11,6 @@
     <text>明史</text>
   </docTitle>
   <navMap>
-    <navPoint id="num_1" playOrder="1">
-      <navLabel>
-        <text>前言</text>
-      </navLabel>
-      <content src="Text/a24.htm"/>
-    </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
         <text>卷一‧本紀第一</text>
