@@ -2,34 +2,28 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="u9aOaCiMMiH5mWHvQti6oO6">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>明史</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="等, 張廷玉/">張廷玉/ 等</dc:creator>
-    <dc:date>2010-11-30T16:00:00+00:00</dc:date>
+    <dc:creator opf:role="aut" opf:file-as="張廷玉 &amp; 萬斯同">張廷玉</dc:creator>
+    <dc:creator opf:role="aut">萬斯同</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="u9aOaCiMMiH5mWHvQti6oO6" opf:scheme="uuid">u9aOaCiMMiH5mWHvQti6oO6</dc:identifier>
-    <dc:publisher>台灣商務印書館</dc:publisher>
     <dc:description>&lt;div&gt;
-&lt;p&gt;明史是二十四史中的最後一部，是一部紀傳體的史書，由清朝的張廷玉等奉命編撰，記載了從明太祖洪武元年（1368）到明思宗崇禎十七年（1644）共二百七十七年的明朝歷史。《明史》共336卷，卷1至卷24為本紀，卷25至卷99為志，卷100至卷112為表，卷113至卷332為列傳，規模僅次於《宋史》。 &lt;/p&gt;
-&lt;p&gt;但其修纂時間之久，用力之勤卻大大超過了以前諸史。修成之後，得到後代史家的好評，認為它超越了宋、遼、金、元諸史。清史学家趙翼在《二十二史劄記》卷31中说：「近代諸史自歐陽公《五代史》外，《遼史》簡略，《宋史》繁蕪，《元史》草率，惟《金史》行文雅潔，敘事簡括，稍為可觀，然未有如《明史》之完善者。」&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;本電子書&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;基於「&lt;/span&gt;&lt;a href="http://www.sidneyluo.net/a/a24/a24.htm"&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #2980b9; background-color: #ffffff"&gt;漢川草廬&lt;/span&gt;&lt;/a&gt;&lt;span style="font-family: '-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji'; font-size: 16px; color: #24292f; background-color: #ffffff"&gt;」重製電子版。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:subject>明史</dc:subject>
-    <dc:subject>张廷玉</dc:subject>
-    <dc:subject>百衲本</dc:subject>
-    <dc:subject>版本</dc:subject>
-    <dc:subject>港台书</dc:subject>
-    <dc:subject>國史</dc:subject>
+&lt;p&gt;三百三十二卷，目錄四卷。清順治二年設明史館，修撰明史，徐元文張玉書陳廷敬王鴻緒等先後爲總裁，先成列傳，黃宗羲弟子萬斯同以布衣參史局，主編纂事。至康熙末紀、志、表亦脱稾。雍正二年又以張廷玉任總裁，據史稾加以修訂，乾隆四年成書刊行。自初修至刊行，歷時六十年，卽今二十四史之明史。明史紀述自洪武元年至崇禎十七年明朝一代二百餘年之史實，在唐代以後官修的正史中，以材料豐富、體例比較嚴謹著稱。但清王朝入關時，壓制民族思想，文網甚密，修史諸臣對建州女真諸事及南明史迹，諱莫如深，曲文偏辭，亦爲前史所罕見。&lt;/p&gt;
+&lt;p&gt;本電子書基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:subject>古籍</dc:subject>
-    <dc:subject>历史</dc:subject>
+    <dc:subject>百衲本</dc:subject>
+    <dc:subject>明史</dc:subject>
     <dc:subject>二十四史</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">0c666bed-474c-482a-9c6a-fa5bfc841d00</dc:identifier>
+    <dc:identifier opf:scheme="calibre">692b0926-4419-4236-81c1-460edc72ab2a</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570525243</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">5394607</dc:identifier>
     <meta name="calibre:title_sort" content="明史"/>
-    <meta name="calibre:author_link_map" content="{&quot;張廷玉/ 等&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;張廷玉&quot;: &quot;&quot;, &quot;萬斯同&quot;: &quot;&quot;}"/>
     <meta name="calibre:series" content="百衲本二十四史"/>
     <meta name="calibre:series_index" content="1.0"/>
     <meta name="cover" content="cover"/>
+    <meta name="calibre:rating" content="6.0"/>
   </metadata>
   <manifest>
     <item id="x001.htm" href="Text/001.htm" media-type="application/xhtml+xml"/>
