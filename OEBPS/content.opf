@@ -363,25 +363,20 @@
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
     <item id="id1" href="Images/1020.jpg" media-type="image/jpeg"/>
-    <item id="id3" href="Images/11-5659.gif" media-type="image/gif"/>
     <item id="id4" href="Images/12-273f.gif" media-type="image/gif"/>
     <item id="id5" href="Images/12-3a74.gif" media-type="image/gif"/>
     <item id="id6" href="Images/12-415d.gif" media-type="image/gif"/>
     <item id="id7" href="Images/12-6723.gif" media-type="image/gif"/>
-    <item id="id8" href="Images/12-6878.gif" media-type="image/gif"/>
     <item id="id9" href="Images/12-7464.gif" media-type="image/gif"/>
     <item id="id11" href="Images/13-296b.gif" media-type="image/gif"/>
     <item id="id12" href="Images/13-2a2d.gif" media-type="image/gif"/>
     <item id="id13" href="Images/13-2b4d.gif" media-type="image/gif"/>
     <item id="id14" href="Images/13-375d.gif" media-type="image/gif"/>
-    <item id="id15" href="Images/13-3f3a.gif" media-type="image/gif"/>
-    <item id="id16" href="Images/13-495a.gif" media-type="image/gif"/>
     <item id="id17" href="Images/13-572b.gif" media-type="image/gif"/>
     <item id="id18" href="Images/13-5f2c.gif" media-type="image/gif"/>
     <item id="id19" href="Images/13-5f32.gif" media-type="image/gif"/>
     <item id="id21" href="Images/14-294f.gif" media-type="image/gif"/>
     <item id="id22" href="Images/14-3878.gif" media-type="image/gif"/>
-    <item id="id23" href="Images/14-454a.gif" media-type="image/gif"/>
     <item id="id24" href="Images/14-7b36.gif" media-type="image/gif"/>
     <item id="id25" href="Images/2032f.gif" media-type="image/gif"/>
     <item id="id26" href="Images/203ad.gif" media-type="image/gif"/>
@@ -402,7 +397,6 @@
     <item id="id41" href="Images/23f72.gif" media-type="image/gif"/>
     <item id="id42" href="Images/24082.gif" media-type="image/gif"/>
     <item id="id43" href="Images/241fc.gif" media-type="image/gif"/>
-    <item id="id44" href="Images/2424e.gif" media-type="image/gif"/>
     <item id="id45" href="Images/242b9.gif" media-type="image/gif"/>
     <item id="id46" href="Images/243f3.gif" media-type="image/gif"/>
     <item id="id47" href="Images/24791.gif" media-type="image/gif"/>
@@ -455,9 +449,6 @@
     <item id="id109" href="Images/a2417.gif" media-type="image/gif"/>
     <item id="id110" href="Images/a2418.gif" media-type="image/gif"/>
     <item id="id111" href="Images/a2419.gif" media-type="image/gif"/>
-    <item id="id112" href="Images/a2420.gif" media-type="image/gif"/>
-    <item id="id113" href="Images/a2421.gif" media-type="image/gif"/>
-    <item id="id114" href="Images/a2422.gif" media-type="image/gif"/>
     <item id="id115" href="Images/a2423.gif" media-type="image/gif"/>
     <item id="id116" href="Images/a2424.gif" media-type="image/gif"/>
     <item id="id117" href="Images/a2425.gif" media-type="image/gif"/>
@@ -469,13 +460,9 @@
     <item id="id123" href="Images/a2432.gif" media-type="image/gif"/>
     <item id="id124" href="Images/a2433.gif" media-type="image/gif"/>
     <item id="id125" href="Images/a2434.gif" media-type="image/gif"/>
-    <item id="id126" href="Images/a2435.gif" media-type="image/gif"/>
-    <item id="id127" href="Images/a2436.gif" media-type="image/gif"/>
     <item id="id129" href="Images/a2438.gif" media-type="image/gif"/>
-    <item id="id130" href="Images/a2439.gif" media-type="image/gif"/>
     <item id="id131" href="Images/a2440.gif" media-type="image/gif"/>
     <item id="id132" href="Images/a2441.gif" media-type="image/gif"/>
-    <item id="id133" href="Images/a2442.gif" media-type="image/gif"/>
     <item id="id134" href="Images/a2443.gif" media-type="image/gif"/>
     <item id="id135" href="Images/a2444.gif" media-type="image/gif"/>
     <item id="id136" href="Images/a2445.gif" media-type="image/gif"/>
@@ -542,10 +529,8 @@
     <item id="id196" href="Images/fb74f.gif" media-type="image/gif"/>
     <item id="id197" href="Images/fc130.gif" media-type="image/gif"/>
     <item id="id198" href="Images/fc939.gif" media-type="image/gif"/>
-    <item id="id199" href="Images/fd136.gif" media-type="image/gif"/>
     <item id="id91" href="Images/FD9F2.gif" media-type="image/gif"/>
     <item id="id200" href="Images/fdc54.gif" media-type="image/gif"/>
-    <item id="id201" href="Images/fdd2f.gif" media-type="image/gif"/>
     <item id="id202" href="Images/fde96.gif" media-type="image/gif"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
