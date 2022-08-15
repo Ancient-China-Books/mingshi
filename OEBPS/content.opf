@@ -362,102 +362,14 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
-    <item id="id1" href="Images/1020.jpg" media-type="image/jpeg"/>
-    <item id="id11" href="Images/13-296b.gif" media-type="image/gif"/>
-    <item id="id12" href="Images/13-2a2d.gif" media-type="image/gif"/>
-    <item id="id13" href="Images/13-2b4d.gif" media-type="image/gif"/>
-    <item id="id14" href="Images/13-375d.gif" media-type="image/gif"/>
-    <item id="id17" href="Images/13-572b.gif" media-type="image/gif"/>
-    <item id="id19" href="Images/13-5f32.gif" media-type="image/gif"/>
-    <item id="id21" href="Images/14-294f.gif" media-type="image/gif"/>
-    <item id="id22" href="Images/14-3878.gif" media-type="image/gif"/>
-    <item id="id24" href="Images/14-7b36.gif" media-type="image/gif"/>
-    <item id="id25" href="Images/2032f.gif" media-type="image/gif"/>
-    <item id="id28" href="Images/20e95.gif" media-type="image/gif"/>
-    <item id="id29" href="Images/2138a.gif" media-type="image/gif"/>
-    <item id="id31" href="Images/21e58.gif" media-type="image/gif"/>
-    <item id="id32" href="Images/21fba.gif" media-type="image/gif"/>
-    <item id="id33" href="Images/2283c.gif" media-type="image/gif"/>
-    <item id="id34" href="Images/22960.gif" media-type="image/gif"/>
-    <item id="id35" href="Images/22d67.gif" media-type="image/gif"/>
-    <item id="id36" href="Images/23252.gif" media-type="image/gif"/>
-    <item id="id39" href="Images/23bb7.gif" media-type="image/gif"/>
-    <item id="id40" href="Images/23c3d.gif" media-type="image/gif"/>
-    <item id="id41" href="Images/23f72.gif" media-type="image/gif"/>
-    <item id="id42" href="Images/24082.gif" media-type="image/gif"/>
-    <item id="id43" href="Images/241fc.gif" media-type="image/gif"/>
-    <item id="id45" href="Images/242b9.gif" media-type="image/gif"/>
-    <item id="id46" href="Images/243f3.gif" media-type="image/gif"/>
-    <item id="id47" href="Images/24791.gif" media-type="image/gif"/>
-    <item id="id48" href="Images/24807.gif" media-type="image/gif"/>
-    <item id="id49" href="Images/24809.gif" media-type="image/gif"/>
-    <item id="id50" href="Images/24841.gif" media-type="image/gif"/>
-    <item id="id51" href="Images/2484a.gif" media-type="image/gif"/>
-    <item id="id52" href="Images/248de.gif" media-type="image/gif"/>
-    <item id="id53" href="Images/248fe.gif" media-type="image/gif"/>
-    <item id="id54" href="Images/24987.gif" media-type="image/gif"/>
-    <item id="id55" href="Images/249f8.gif" media-type="image/gif"/>
-    <item id="id56" href="Images/24a70.gif" media-type="image/gif"/>
-    <item id="id57" href="Images/255fd.gif" media-type="image/gif"/>
-    <item id="id59" href="Images/2643f.gif" media-type="image/gif"/>
-    <item id="id60" href="Images/2648e.gif" media-type="image/gif"/>
-    <item id="id61" href="Images/26a77.gif" media-type="image/gif"/>
-    <item id="id62" href="Images/26a87.gif" media-type="image/gif"/>
-    <item id="id63" href="Images/26b0a.gif" media-type="image/gif"/>
-    <item id="id64" href="Images/26d9c.gif" media-type="image/gif"/>
-    <item id="id65" href="Images/276fe.gif" media-type="image/gif"/>
-    <item id="id66" href="Images/27b08.gif" media-type="image/gif"/>
-    <item id="id67" href="Images/27d29.gif" media-type="image/gif"/>
-    <item id="id69" href="Images/28306.gif" media-type="image/gif"/>
-    <item id="id70" href="Images/28960.gif" media-type="image/gif"/>
-    <item id="id71" href="Images/289a0.gif" media-type="image/gif"/>
-    <item id="id72" href="Images/28b81.gif" media-type="image/gif"/>
-    <item id="id75" href="Images/29507.gif" media-type="image/gif"/>
-    <item id="id82" href="Images/349c.gif" media-type="image/gif"/>
     <item id="id92" href="Images/a2400.gif" media-type="image/gif"/>
-    <item id="id93" href="Images/a2401.gif" media-type="image/gif"/>
-    <item id="id94" href="Images/a2402.gif" media-type="image/gif"/>
-    <item id="id95" href="Images/a2403.gif" media-type="image/gif"/>
-    <item id="id96" href="Images/a2404.gif" media-type="image/gif"/>
     <item id="id97" href="Images/a2405.gif" media-type="image/gif"/>
-    <item id="id98" href="Images/a2406.gif" media-type="image/gif"/>
-    <item id="id99" href="Images/a2407.gif" media-type="image/gif"/>
-    <item id="id100" href="Images/a2408.gif" media-type="image/gif"/>
-    <item id="id101" href="Images/a2409.gif" media-type="image/gif"/>
-    <item id="id102" href="Images/a2410.gif" media-type="image/gif"/>
-    <item id="id103" href="Images/a2411.gif" media-type="image/gif"/>
-    <item id="id104" href="Images/a2412.gif" media-type="image/gif"/>
-    <item id="id106" href="Images/a2414.gif" media-type="image/gif"/>
-    <item id="id107" href="Images/a2415.gif" media-type="image/gif"/>
-    <item id="id108" href="Images/a2416.gif" media-type="image/gif"/>
     <item id="id109" href="Images/a2417.gif" media-type="image/gif"/>
-    <item id="id110" href="Images/a2418.gif" media-type="image/gif"/>
-    <item id="id111" href="Images/a2419.gif" media-type="image/gif"/>
     <item id="id115" href="Images/a2423.gif" media-type="image/gif"/>
-    <item id="id116" href="Images/a2424.gif" media-type="image/gif"/>
-    <item id="id117" href="Images/a2425.gif" media-type="image/gif"/>
-    <item id="id118" href="Images/a2427.jpg" media-type="image/jpeg"/>
-    <item id="id119" href="Images/a2428.gif" media-type="image/gif"/>
-    <item id="id120" href="Images/a2429.gif" media-type="image/gif"/>
-    <item id="id121" href="Images/a2430.gif" media-type="image/gif"/>
-    <item id="id122" href="Images/a2431.gif" media-type="image/gif"/>
-    <item id="id123" href="Images/a2432.gif" media-type="image/gif"/>
-    <item id="id124" href="Images/a2433.gif" media-type="image/gif"/>
     <item id="id125" href="Images/a2434.gif" media-type="image/gif"/>
     <item id="id129" href="Images/a2438.gif" media-type="image/gif"/>
     <item id="id131" href="Images/a2440.gif" media-type="image/gif"/>
     <item id="id132" href="Images/a2441.gif" media-type="image/gif"/>
-    <item id="id134" href="Images/a2443.gif" media-type="image/gif"/>
-    <item id="id135" href="Images/a2444.gif" media-type="image/gif"/>
-    <item id="id136" href="Images/a2445.gif" media-type="image/gif"/>
-    <item id="id137" href="Images/a2446.gif" media-type="image/gif"/>
-    <item id="id140" href="Images/a2449.gif" media-type="image/gif"/>
-    <item id="id141" href="Images/a2450.gif" media-type="image/gif"/>
-    <item id="id142" href="Images/a2451.gif" media-type="image/gif"/>
-    <item id="id143" href="Images/a2452.gif" media-type="image/gif"/>
-    <item id="id144" href="Images/a2453.gif" media-type="image/gif"/>
-    <item id="id145" href="Images/a2454.gif" media-type="image/gif"/>
-    <item id="id146" href="Images/a2455.gif" media-type="image/gif"/>
     <item id="id167" href="Images/a2476.gif" media-type="image/gif"/>
     <item id="id181" href="Images/a2490.gif" media-type="image/gif"/>
     <item id="id182" href="Images/a2491.gif" media-type="image/gif"/>
