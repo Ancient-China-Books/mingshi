@@ -363,7 +363,8 @@
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
-    <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="biaodian" href="biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
