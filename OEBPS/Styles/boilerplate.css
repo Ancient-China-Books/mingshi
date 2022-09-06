@@ -250,12 +250,19 @@ h1 {
 .style11 {
   font-weight: 600;
 }
-.style17 {
-  color: #666;
+.style15{
+  color: #3853cf;
+}
+.style16{
+  color: #3853cf;
+  margin-left: 4%;
+}
+.style18{
+  color: #aaa;
   font-size: 80%;
   display: inline;
   float: right;
-  margin-right: 4%;
+  margin-right: 2%;
 }
 /************** .poem styles *****************/
 /* ==|== 非語意的 helper 類別 ========================================
